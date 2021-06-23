@@ -1,1 +1,1 @@
-# weather_project
+# ShapeAI weather_project
